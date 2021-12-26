@@ -11,9 +11,9 @@
 * [Moodle site](https://lms.dickinson.edu/course/view.php?id=46929) for assignment solutions and exams
 * [Zoom link](https://lms.dickinson.edu/mod/page/view.php?id=1063923)
   for occasions when class is online
-<!-- * [Recordings of some classes](https://lms.dickinson.edu/mod/page/view.php?id=1041988) -->
+* [Recordings of some classes](https://lms.dickinson.edu/mod/page/view.php?id=1063924)
 * [Java API](https://docs.oracle.com/en/java/javase/17/docs/api/index.html) (version 17) at Oracle.com
 * [Acknowledgment](acknowledgment.md)
 
 ----
-Last modified: Sun Dec 26 22:26:12 UTC 2021 by jmac.
+Last modified: Sun Dec 26 23:14:05 UTC 2021 by jmac.
