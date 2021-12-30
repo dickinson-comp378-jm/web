@@ -12,6 +12,8 @@ Each core content assignment is available as a Word document from the links belo
 * [CC0](CC0.docx) 
 * [CC1](CC1.docx) 
 * [CC2](CC2.docx) 
+* [CC3a](CC3a.docx) 
+* [CC3b](CC3b.docx) 
 <!-- * CC3a  -->
 <!-- * CC3b  -->
 <!-- * CC4  -->
