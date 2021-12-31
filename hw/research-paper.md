@@ -102,14 +102,67 @@ case, one sentence should be sufficient to answer the question.
 1. Based on the citations given in the introduction of the paper (or
    possibly elsewhere), guess which previously-published paper is the
    most closely related to this one. Give a citation of that paper in
-   APA format here.
+   APA format as your answer to this question.
    
 1. Obtain a PDF version of the closely-related paper you identified in
    the previous question. Most likely it will be freely available. If
    not, you will need to submit an inter-library loan request to the
    Dickinson library. As your answer to this question, state whether
-   you have already obtained the PDF, or alternatively describe how
+   you have already obtained the PDF or, alternatively, describe how
    you submitted your request for it.
 
 
-## RP2 (120 points)
+## RP2 (300 points)
+
+The final objective of RP2 is to give a presentation explaining the
+content of your chosen paper to our class. To achieve this, you will
+
+* read your chosen paper carefully
+* read one other background paper lightly (most likely, the paper you
+  identified at the end of RP1)
+* do a small amount of additional background research if necessary
+* create your presentation
+* deliver your presentation in class
+
+The amount of time required to achieve all of the above will vary
+according to many factors such as the nature of the paper that you
+chose, but a reasonable target would be at least five hours of
+preparation.
+
+Your presentation should be about 10 minutes in length, and there will
+be about five minutes of questions from the audience afterwards.
+
+You must submit your slides, in any reasonable format, to Moodle
+before the start of the class in which you are delivering your
+presentation.
+
+To achieve an excellent grade, your presentation should excel on the
+following aspects. It should:
+
+* meet the target length of ten minutes, plus or minus two minutes;
+* clearly explain the problem that the paper is trying to solve, or
+  the research problem being addressed;
+* clearly explain the method used to solve the problem and/or address
+  the research question;
+* clearly explain any experiments demonstrating the success of the
+  main idea;
+* use clear and engaging visual materials (slides and/or whiteboard);
+* employ large fonts that are very easy for the audience to read and
+  use only a small number of words on every slide so that every word
+  can be read by the audience;
+* be delivered in a clear, engaging, and fluent voice;
+* be delivered without reading verbatim from notes or slides (it is a
+  good idea to use notes&mdash;just don't read from them word for
+  word);
+* demonstrate a level of understanding of the technical material that
+  is achievable by an undergraduate student (you are not expected to
+  master all technical details);
+* demonstrate some understanding of at least one additional background
+  source;
+* include a list of sources in APA format, including the chosen paper
+  and at least one additional background paper.
+
+Note that it will not be possible to explain everything about the
+paper within the 10-minute time limit. Part of the challenge of this
+assignment is to judiciously choose which material to explain and
+which to leave out.
