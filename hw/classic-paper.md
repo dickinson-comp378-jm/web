@@ -41,7 +41,7 @@ the following aspects.
   into and curiosity about the reading.
   
 
-## CP1
+## CP1 (100 points)
 
 There are two assigned readings for this session, both available on
 Moodle:
@@ -56,7 +56,7 @@ Moodle:
   originally published in the proceedings of the 1998 International
   Conference on the World Wide Web.
   
-## CP2
+## CP2 (100 points)
 
 There is one assigned reading for this session, available on Moodle:
 
