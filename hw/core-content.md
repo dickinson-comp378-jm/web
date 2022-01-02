@@ -20,6 +20,7 @@ Each core content assignment is available as a Word document from the links belo
     [CC4skeleton.java](CC4skeleton.java). 
   - The Java program [DbDemo.java](DbDemo.java) is not necessary, but
     may be useful as an even simpler example.
+* [CC5.docx](CC5.docx) 
 
 
 <!-- * CC3a  -->
