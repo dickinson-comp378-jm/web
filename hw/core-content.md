@@ -21,6 +21,7 @@ Each core content assignment is available as a Word document from the links belo
   - The Java program [DbDemo.java](DbDemo.java) is not necessary, but
     may be useful as an even simpler example.
 * [CC5.docx](CC5.docx) 
+* [CC6.docx](CC6.docx) 
 
 
 <!-- * CC3a  -->

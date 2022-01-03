@@ -35,6 +35,10 @@ are as follows.
     as possible with the instructor.
   - The expectation for total amount and quality of work will be
     higher for a team of two compared to individuals working alone.
+* Optionally, you might consider using one or more advanced techniques
+  in your project. These may include: transactions, prepared
+  statements, stored procedures, or triggers. Additional reading of
+  the textbook and/or MySQL documentation may be required for this.
 
 If you have a particular interest in pursuing a project that does not
 meet the above requirements, feel free to discuss it with the
@@ -132,7 +136,10 @@ following:
 * descriptions of any difficulties you faced during the project and
   how you overcame them;
 * descriptions of additional features that you would like to add if
-  you had more time.
+  you had more time;
+* discussion of social, legal, and ethical issues that could arise if
+  your database application were released publicly and had a large
+  number of users.
   
 You can format the report in any reasonable fashion. Feel free to use
 bullet points, diagrams, and figures as appropriate. Clarity,
@@ -147,8 +154,10 @@ three categories of roughly equal weight.
   demonstrate creativity in how to represent complex relationships
   between entities? Does the computer program do something
   interesting? Does the experience report note some interesting
-  aspects of the project, such as surprising results or challenges
-  encountered?
+  aspects of the project, such as surprising results, challenges
+  encountered, and social/legal/ethical issues? Does the project using
+  any advanced techniques, such as transactions, prepared statements,
+  stored procedures, or triggers?
 * Effort: Is the total amount of effort commensurate with two weeks of
   course work? Does the length of the SQL and Java code represent an
   appropriate amount of work? Does the experience report convey an
