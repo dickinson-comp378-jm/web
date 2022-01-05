@@ -25,16 +25,33 @@ public class QueryExecutor {
 
 	private static final String MYSQL_IP_ADDRESS = "127.0.0.1";
 	private static final String MYSQL_PORT_NUMBER = "3306";
-	private static final String MYSQL_DATABASE_NAME = "wine";
 
 	Connection connection = null;
 
+	private String mysql_database_name = "wine";
+
 	/**
-	 * Construct a new QueryExecutor object and connect it to the desired
-	 * MySQL database, as specified by the class constants such as
-	 * MYSQL_IP_ADDRESS, MYSQL_PORT_NUMBER, etc.
+	 * Construct a new QueryExecutor object and connect it to the desired MySQL
+	 * database, as specified by the class constants such as MYSQL_IP_ADDRESS,
+	 * MYSQL_PORT_NUMBER, etc.
 	 */
 	public QueryExecutor() {
+		initialize();
+	}
+
+	/**
+	 * Construct a new QueryExecutor object and connect it to the desired MySQL
+	 * database, as specified by the class constants such as MYSQL_IP_ADDRESS,
+	 * MYSQL_PORT_NUMBER, etc.
+	 * 
+	 * @param databaseName The name of the MySQL database to connect to
+	 */
+	public QueryExecutor(String databaseName) {
+		this.mysql_database_name = databaseName;
+		initialize();
+	}
+
+	private void initialize() {
 		Properties connectionProperties = new Properties();
 		connectionProperties.put("user", MYSQL_USER);
 		connectionProperties.put("password", MYSQL_PASSWORD);
@@ -42,20 +59,32 @@ public class QueryExecutor {
 		// Connect to MySQL
 		try {
 			connection = DriverManager.getConnection(
-					"jdbc:" + "mysql" + "://" + MYSQL_IP_ADDRESS + ":"
-							+ MYSQL_PORT_NUMBER + "/",
-					connectionProperties);
+					"jdbc:" + "mysql" + "://" + MYSQL_IP_ADDRESS + ":" + MYSQL_PORT_NUMBER + "/", connectionProperties);
 		} catch (SQLException e) {
 			handleSQLException(e);
 		}
 		System.out.println("Successfully connected to mysql.");
 
 		// Switch to using the desired database
-		execute("use " + MYSQL_DATABASE_NAME);
-		System.out.format("Using database '%s'.\n\n", MYSQL_DATABASE_NAME);
+		execute("use " + mysql_database_name);
+		System.out.format("Using database '%s'.\n\n", mysql_database_name);
 	}
 
-	private void handleSQLException(SQLException e) {
+	/**
+	 * @return the Connection object representing the current database
+	 *         session.
+	 */
+	public Connection getConnection() {
+		return connection;
+	}
+
+	/**
+	 * A simpler handler for a SQLException. It prints the stack trace and
+	 * terminates the program.
+	 * 
+	 * @param e The SQLException to be handled
+	 */
+	public void handleSQLException(SQLException e) {
 		e.printStackTrace();
 		System.exit(0);
 	}
@@ -136,20 +165,35 @@ public class QueryExecutor {
 	}
 
 	/**
-	 * Send an SQL query to the database server. This method is used for
-	 * sending queries that return results. For commands that do not return
-	 * results, use execute().
+	 * Send an SQL query to the database server and optionally print the
+	 * results. This method is used for sending queries that return
+	 * results. For commands that do not return results, use execute().
+	 * 
+	 * @param query        The SQL query to be executed.
+	 * @param printResults true if the results should be printed, false
+	 *                     otherwise.
+	 */
+	public void executeQuery(String query, boolean printResults) {
+		try (Statement statement = connection.createStatement()) {
+			ResultSet resultSet = statement.executeQuery(query);
+			printExecutionMessage(query);
+			if (printResults) {
+				printResultSet(resultSet);
+			}
+		} catch (SQLException e) {
+			handleSQLException(e);
+		}
+	}
+
+	/**
+	 * Send an SQL query to the database server and print the results. This
+	 * method is used for sending queries that return results. For commands
+	 * that do not return results, use execute().
 	 * 
 	 * @param query The SQL query to be executed.
 	 */
 	public void executeQuery(String query) {
-		try (Statement statement = connection.createStatement()) {
-			ResultSet resultSet = statement.executeQuery(query);
-			printExecutionMessage(query);
-			printResultSet(resultSet);
-		} catch (SQLException e) {
-			handleSQLException(e);
-		}
+		executeQuery(query, true);
 	}
 
 	public static void main(String[] args) {
