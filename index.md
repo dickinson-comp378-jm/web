@@ -18,7 +18,8 @@
   (version 17) at Oracle.com, especially the [java.sql
   package](https://docs.oracle.com/en/java/javase/17/docs/api/java.sql/java/sql/package-summary.html)
   for JDBC
+* [using JDBC](jdbc.md)
 * [Acknowledgment](acknowledgment.md)
 
 ----
-Last modified: Mon Jan 03 15:04:48 UTC 2022 by jmac.
+Last modified: Thu Jan 06 01:13:20 UTC 2022 by jmac.
