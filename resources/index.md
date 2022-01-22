@@ -34,6 +34,7 @@
   - enter `SELECT * FROM supplier`, click Go (bottom right)
   - for a more interesting example, try `SELECT * FROM supplier WHERE supcity='San Francisco'`
 
+* [chapter 1 textbook slides](https://www.pdbmbook.com/vault/Chapter%20Fundamental%20Concepts%20of%20Database%20Management.pdf/access)
 
 ----
-Last modified: Sat Jan 22 19:28:08 UTC 2022 by jmac.
+Last modified: Sat Jan 22 19:32:57 UTC 2022 by jmac.
