@@ -27,14 +27,15 @@
   - in phpMyAdmin:
     * click the Home icon, then New
 	* enter `wine` as database name, click Create
-	* click Import | Choose File, then select `wine.sql`
+	* click Import &VerticalLine; Choose File, then select `wine.sql`
 	* click Go (bottom right)
-* querying the `wine` database:
+* querying the `wine` database (Do this in your own phpMyAdmin or at
+  the [textbook online playground](https://www.pdbmbook.com/playground)):
   - click on SQL
   - enter `SELECT * FROM supplier`, click Go (bottom right)
   - for a more interesting example, try `SELECT * FROM supplier WHERE supcity='San Francisco'`
 
-* [chapter 1 textbook slides](https://www.pdbmbook.com/vault/Chapter%20Fundamental%20Concepts%20of%20Database%20Management.pdf/access)
+* [chapter 1 textbook slides](https://www.pdbmbook.com/vault/Chapter%20Fundamental%20Concepts%20of%20Database%20Management.pdf/access): especially slides 4-13, 17-18, 21
 
 ----
-Last modified: Sat Jan 22 19:32:57 UTC 2022 by jmac.
+Last modified: Sat Jan 22 19:38:24 UTC 2022 by jmac.
