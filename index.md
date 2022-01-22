@@ -1,4 +1,4 @@
-# COMP378: Database Systems, spring 2021
+# COMP378: Database Systems, spring 2022
 
 * [Syllabus](syllabus.docx)
 * [Overview Schedule](schedule.xlsx)  <!-- &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 12/6/2021</font> -->
@@ -22,4 +22,4 @@
 * [Acknowledgment](acknowledgment.md)
 
 ----
-Last modified: Sat Jan 22 18:12:10 UTC 2022 by jmac.
+Last modified: Sat Jan 22 18:16:44 UTC 2022 by jmac.
