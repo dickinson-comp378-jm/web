@@ -19,9 +19,14 @@
     provided to help you with this. Details:
 	  * under construction...
 * accessing phpMyAdmin:
-  - Runs XAMPP control panel as administrator
-  - Start Apache and MySQL
-  - Click on Admin for MySQL
+  - on Windows
+    - Run XAMPP control panel as administrator
+    - Start Apache and MySQL
+    - Click on Admin for MySQL
+  - on Ubuntu
+    - open Terminal, enter `sudo /opt/lampp/manager-linux-x64.run`
+    - Manage Servers tab, then Start All
+    - open FireFox, visit http://localhost, click on phpMyAdmin (top right)
 * importing the `wine` database:
   - download [wine.sql](../sql/wine.sql)
   - in phpMyAdmin:
