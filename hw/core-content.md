@@ -1,16 +1,6 @@
 # Core content assignments
 
-The following SQL files are required for some core content assignments
-and exams:
-* [wine.sql](../sql/wine.sql) - the `wine` database from the PDBM
-  textbook
-* [harvestfieldplant.sql](../sql/harvestfieldplant.sql) - a small
-  subset of the database used by the Dickinson College farm
-* [northwind.sql](../sql/northwind.sql) - a database originally
-  provided by Microsoft as a Microsoft Access 2010 sample database;
-  please see the [Northwind
-  acknowledgement](../sql/northwind-acknowledgement.md) for more
-  details
+See the [SQL source for sample databases](../sql/) page for SQL files.
 
 Each core content assignment is available as a Word document from the links below:
 

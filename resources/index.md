@@ -18,8 +18,22 @@
     XAMPP within that virtual machine. A virtual machine image is
     provided to help you with this. Details:
 	  * under construction...
-
+* accessing phpMyAdmin:
+  - Runs XAMPP control panel as administrator
+  - Start Apache and MySQL
+  - Click on Admin for MySQL
+* importing the `wine` database:
+  - download [wine.sql](../sql/wine.sql)
+  - in phpMyAdmin:
+    * click the Home icon, then New
+	* enter `wine` as database name, click Create
+	* click Import | Choose File, then select `wine.sql`
+	* click Go (bottom right)
+* querying the `wine` database:
+  - click on SQL
+  - enter `SELECT * FROM supplier`, click Go (bottom right)
+  - for a more interesting example, try `SELECT * FROM supplier WHERE supcity='San Francisco'`
 
 
 ----
-Last modified: Sat Jan 22 18:13:26 UTC 2022 by jmac.
+Last modified: Sat Jan 22 19:28:08 UTC 2022 by jmac.
