@@ -1,7 +1,7 @@
 # COMP378: Database Systems, spring 2021
 
-* [Syllabus](syllabus-12-30-2021.docx)
-* [Overview Schedule](schedule-1-3-2022.xlsx)  <!-- &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 12/6/2021</font> -->
+* [Syllabus](syllabus.docx)
+* [Overview Schedule](schedule.xlsx)  <!-- &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 12/6/2021</font> -->
 * [Detailed schedule](resources)
 * [Textbook website](https://www.pdbmbook.com/), including the [online
   playground](https://www.pdbmbook.com/playground)
@@ -22,4 +22,4 @@
 * [Acknowledgment](acknowledgment.md)
 
 ----
-Last modified: Thu Jan 06 01:13:20 UTC 2022 by jmac.
+Last modified: Sat Jan 22 18:12:10 UTC 2022 by jmac.
