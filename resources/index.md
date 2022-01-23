@@ -19,6 +19,9 @@
     provided to help you with this. Details:
 	  * Download the VM image file, [comp378VM.ova](https://dickinson0-my.sharepoint.com/:u:/g/personal/jmac_dickinson_edu/EQSsBh04sspDoldjO7RoU6sBZ5k0QlMb444-a0REQrPdXA?e=JTfYUd)
 	  * Open the VirtualBox app, then choose File &VerticalLine; Import Appliance and pick `comp378VM.ova`
+	  * The [username and password for this virtual
+        machine](https://lms.dickinson.edu/mod/page/view.php?id=1080082)
+        are available on Moodle.
 * accessing phpMyAdmin:
   - on Windows
     - Run XAMPP control panel as administrator
@@ -44,4 +47,4 @@
 * [chapter 1 textbook slides](https://www.pdbmbook.com/vault/Chapter%20Fundamental%20Concepts%20of%20Database%20Management.pdf/access): especially slides 4-13, 17-18, 21
 
 ----
-Last modified: Sat Jan 22 19:38:24 UTC 2022 by jmac.
+Last modified: Sun Jan 23 15:09:10 UTC 2022 by jmac.
