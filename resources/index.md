@@ -18,7 +18,7 @@
     XAMPP within that virtual machine. A virtual machine image is
     provided to help you with this. Details:
 	  * Download the VM image file, [comp378VM.ova](https://dickinson0-my.sharepoint.com/:u:/g/personal/jmac_dickinson_edu/EQSsBh04sspDoldjO7RoU6sBZ5k0QlMb444-a0REQrPdXA?e=JTfYUd)
-	  * In VirtualBox, import comp378VM.ova
+	  * Open the VirtualBox app, then choose File &VerticalLine; Import Appliance and pick `comp378VM.ova`
 * accessing phpMyAdmin:
   - on Windows
     - Run XAMPP control panel as administrator
@@ -26,7 +26,7 @@
     - Click on Admin for MySQL
   - on Ubuntu
     - open Terminal, enter `sudo /opt/lampp/manager-linux-x64.run`
-    - Manage Servers tab, then Start All
+    - on Manage Servers tab, choose Start All
     - open FireFox, visit http://localhost, click on phpMyAdmin (top right)
 * importing the `wine` database:
   - download [wine.sql](../sql/wine.sql)
