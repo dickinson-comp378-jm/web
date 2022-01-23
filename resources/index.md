@@ -17,7 +17,8 @@
     need to create a virtual machine on one of the iMacs then use
     XAMPP within that virtual machine. A virtual machine image is
     provided to help you with this. Details:
-	  * under construction...
+	  * Download the VM image file, [comp378VM.ova](https://dickinson0-my.sharepoint.com/:u:/g/personal/jmac_dickinson_edu/EQSsBh04sspDoldjO7RoU6sBZ5k0QlMb444-a0REQrPdXA?e=JTfYUd)
+	  * In VirtualBox, import comp378VM.ova
 * accessing phpMyAdmin:
   - on Windows
     - Run XAMPP control panel as administrator
