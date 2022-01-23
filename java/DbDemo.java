@@ -49,9 +49,9 @@ public class DbDemo {
 		try (Statement statement = connection.createStatement()) {
 			ResultSet rs = null;
 			// Specify that we are using the wine database.
-			rs = statement.executeQuery("use wine");
+			statement.execute("use wine");
 			// Execute a SELECT query in SQL
-			rs = statement.executeQuery("SELECT * FROM `supplier`");
+			rs = statement.executeQuery("SELECT * FROM `SUPPLIER`");
 			// Iterate over the results returned by the query, using
 			// getString() to obtain values according to column names.
 			while (rs.next()) {
