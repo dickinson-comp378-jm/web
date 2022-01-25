@@ -13,6 +13,7 @@
 * [Zoom link](https://lms.dickinson.edu/mod/page/view.php?id=1063923)
   for occasions when class is online
 * [Recordings of some classes](https://lms.dickinson.edu/mod/page/view.php?id=1063924)
+* [SQL source for sample databases](sql/)
 * [Java
   API](https://docs.oracle.com/en/java/javase/17/docs/api/index.html)
   (version 17) at Oracle.com, especially the [java.sql
@@ -22,4 +23,4 @@
 * [Acknowledgment](acknowledgment.md)
 
 ----
-Last modified: Sat Jan 22 18:16:44 UTC 2022 by jmac.
+Last modified: Tue Jan 25 17:20:36 UTC 2022 by jmac.
