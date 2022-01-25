@@ -18,7 +18,7 @@
     XAMPP within that virtual machine. A virtual machine image is
     provided to help you with this. Details:
 	  * Download the VM image file, [comp378VM.ova](https://dickinson0-my.sharepoint.com/:u:/g/personal/jmac_dickinson_edu/EQSsBh04sspDoldjO7RoU6sBZ5k0QlMb444-a0REQrPdXA?e=JTfYUd)
-	  * Open the VirtualBox app, then choose File &VerticalLine; Import Appliance and pick `comp378VM.ova`
+	  * Open the VirtualBox app, then choose File &#124; Import Appliance and pick `comp378VM.ova`
 	  * The [username and password for this virtual
         machine](https://lms.dickinson.edu/mod/page/view.php?id=1080082)
         are available on Moodle.
@@ -36,7 +36,7 @@
   - in phpMyAdmin:
     * click the Home icon, then New
 	* enter `wine` as database name, click Create
-	* click Import &VerticalLine; Choose File, then select `wine.sql`
+	* click Import &#124; Choose File, then select `wine.sql`
 	* click Go (bottom right)
 * querying the `wine` database (Do this in your own phpMyAdmin or at
   the [textbook online playground](https://www.pdbmbook.com/playground)):
@@ -47,4 +47,4 @@
 * [chapter 1 textbook slides](https://www.pdbmbook.com/vault/Chapter%20Fundamental%20Concepts%20of%20Database%20Management.pdf/access): especially slides 4-13, 17-18, 21
 
 ----
-Last modified: Sun Jan 23 15:09:10 UTC 2022 by jmac.
+Last modified: Tue Jan 25 17:23:47 UTC 2022 by jmac.
