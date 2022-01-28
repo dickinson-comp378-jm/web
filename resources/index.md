@@ -3,6 +3,36 @@
 
 
 
+## Class 3
+
+Preliminary discussion of the mathematical motion of a
+_relation_. Whiteboard notes provided:
+[relation-overview.svg](class03/relation-overview.svg)
+
+Main topic for today: the EER model (_enhanced_ ER model).
+* We continue with [textbook slides for chapter
+  3](https://www.pdbmbook.com/vault/Chapter%20Conceptual%20Data%20Modeling%20using%20EER%20and%20UML.pdf/access).
+  - Note the methodology on slide 45. This will be useful for
+    homework.
+
+
+## Class 2
+
+Key concepts from chapters 1 and 2:
+* *transaction*: see textbook section 1.5.6
+* *ACID* properties of transactions: see textbook section 1.5.6
+* Different types of database management systems (DBMS): hierarchical,
+  network, relational, object-oriented, XML, no-SQL. See textbook
+  section 2.2.1. In this course, we focus almost exclusively on the
+  relational approach, which is dominant in practice.
+  
+Main topic for today: the ER model.
+* See [textbook slides for chapter 3](https://www.pdbmbook.com/vault/Chapter%20Conceptual%20Data%20Modeling%20using%20EER%20and%20UML.pdf/access).
+
+SQL topics: select, from, distinct, as, where, and, between, in, like, is null. See 7.3.1.1.
+
+
+
 ## Class 1
 
 * Overview of the course. 
@@ -47,4 +77,4 @@
 * [chapter 1 textbook slides](https://www.pdbmbook.com/vault/Chapter%20Fundamental%20Concepts%20of%20Database%20Management.pdf/access): especially slides 4-13, 17-18, 21
 
 ----
-Last modified: Tue Jan 25 17:23:47 UTC 2022 by jmac.
+Last modified: Fri Jan 28 14:39:53 UTC 2022 by jmac.
