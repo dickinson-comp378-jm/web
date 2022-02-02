@@ -1,6 +1,11 @@
 # Detailed schedule
 
+## Class 4
 
+Main topic for today: relations and keys.
+* Whiteboard notes: [relations-and-keys.svg](class04/relations-and-keys.svg)
+* [textbook slides for chapter
+  6](https://www.pdbmbook.com/vault/Chapter%20Relational%20Databases.pdf/access)
 
 
 ## Class 3
@@ -77,4 +82,4 @@ SQL topics: select, from, distinct, as, where, and, between, in, like, is null. 
 * [chapter 1 textbook slides](https://www.pdbmbook.com/vault/Chapter%20Fundamental%20Concepts%20of%20Database%20Management.pdf/access): especially slides 4-13, 17-18, 21
 
 ----
-Last modified: Fri Jan 28 14:39:53 UTC 2022 by jmac.
+Last modified: Wed Feb 02 23:41:36 UTC 2022 by jmac.
