@@ -1,5 +1,15 @@
 # Detailed schedule
 
+## Class 5
+
+Please take the [quiz on relations and
+keys](https://forms.office.com/Pages/ResponsePage.aspx?id=VbAyYrl2E0ybiLVirn22-2zFL4dI9oNMmoALudp-AK9UNEgyODZYVVpVNVNCS1BKODNVQ0I5Q0JPVS4u).
+(Does not affect your grade, but demonstrates your understanding.)
+
+Main topic for today: database normalization
+
+
+
 ## Class 4
 
 Main topic for today: relations and keys.
@@ -82,4 +92,4 @@ SQL topics: select, from, distinct, as, where, and, between, in, like, is null. 
 * [chapter 1 textbook slides](https://www.pdbmbook.com/vault/Chapter%20Fundamental%20Concepts%20of%20Database%20Management.pdf/access): especially slides 4-13, 17-18, 21
 
 ----
-Last modified: Wed Feb 02 23:41:36 UTC 2022 by jmac.
+Last modified: Fri Feb 04 19:28:21 UTC 2022 by jmac.
