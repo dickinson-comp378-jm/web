@@ -7,6 +7,10 @@ keys](https://forms.office.com/Pages/ResponsePage.aspx?id=VbAyYrl2E0ybiLVirn22-2
 (Does not affect your grade, but demonstrates your understanding.)
 
 Main topic for today: database normalization
+* Whiteboard notes: [05-normalization.svg](class05/05-normalization.svg)
+* [textbook slides for chapter
+  6](https://www.pdbmbook.com/vault/Chapter%20Relational%20Databases.pdf/access)
+  again
 
 
 
@@ -92,4 +96,4 @@ SQL topics: select, from, distinct, as, where, and, between, in, like, is null. 
 * [chapter 1 textbook slides](https://www.pdbmbook.com/vault/Chapter%20Fundamental%20Concepts%20of%20Database%20Management.pdf/access): especially slides 4-13, 17-18, 21
 
 ----
-Last modified: Fri Feb 04 19:28:21 UTC 2022 by jmac.
+Last modified: Sat Feb 05 00:07:08 UTC 2022 by jmac.
