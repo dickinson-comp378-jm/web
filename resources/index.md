@@ -117,4 +117,4 @@ SQL topics: select, from, distinct, as, where, and, between, in, like, is null. 
 * [chapter 1 textbook slides](https://www.pdbmbook.com/vault/Chapter%20Fundamental%20Concepts%20of%20Database%20Management.pdf/access): especially slides 4-13, 17-18, 21
 
 ----
-Last modified: Wed Feb 09 21:15:54 UTC 2022 by jmac.
+Last modified: Wed Feb 09 21:18:40 UTC 2022 by jmac.
