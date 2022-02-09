@@ -2,6 +2,8 @@
 
 ## Class 6
 
+Warmup exercise for functional dependencies and normalization: [review-func-dep.xlsx](class06/review-func-dep.xlsx)
+
 Main topic for today: converting ER model to relational model.
 	* [textbook slides for chapter
 6](https://www.pdbmbook.com/vault/Chapter%20Relational%20Databases.pdf/access)
@@ -115,4 +117,4 @@ SQL topics: select, from, distinct, as, where, and, between, in, like, is null. 
 * [chapter 1 textbook slides](https://www.pdbmbook.com/vault/Chapter%20Fundamental%20Concepts%20of%20Database%20Management.pdf/access): especially slides 4-13, 17-18, 21
 
 ----
-Last modified: Tue Feb 08 22:18:12 UTC 2022 by jmac.
+Last modified: Wed Feb 09 21:15:54 UTC 2022 by jmac.
