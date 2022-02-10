@@ -7,9 +7,7 @@ Warmup exercise for functional dependencies and normalization:
 * corresponding database: [carlislefood.sql](class06/carlislefood.sql)
 
 Main topic for today: converting ER model to relational model.
-	* [textbook slides for chapter
-6](https://www.pdbmbook.com/vault/Chapter%20Relational%20Databases.pdf/access)
-again; we go over slides 49-62 and 74-77 in class.
+* [textbook slides for chapter 6](https://www.pdbmbook.com/vault/Chapter%20Relational%20Databases.pdf/access) again; we go over slides 49-62 and 74-77 in class.
 
 ## Class 5
 
@@ -119,4 +117,4 @@ SQL topics: select, from, distinct, as, where, and, between, in, like, is null. 
 * [chapter 1 textbook slides](https://www.pdbmbook.com/vault/Chapter%20Fundamental%20Concepts%20of%20Database%20Management.pdf/access): especially slides 4-13, 17-18, 21
 
 ----
-Last modified: Thu Feb 10 03:24:42 UTC 2022 by jmac.
+Last modified: Thu Feb 10 03:26:23 UTC 2022 by jmac.
