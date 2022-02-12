@@ -1,5 +1,13 @@
 # Detailed schedule
 
+## Class 7
+
+Most of this class will be devoted to an ungraded but required lab
+activity to learn about creating and altering database tables within
+phpMyAdmin:
+* [table-creation-lab.docx](class07/table-creation-lab.docx)
+
+
 ## Class 6
 
 Warmup exercise for functional dependencies and normalization: 
@@ -117,4 +125,4 @@ SQL topics: select, from, distinct, as, where, and, between, in, like, is null. 
 * [chapter 1 textbook slides](https://www.pdbmbook.com/vault/Chapter%20Fundamental%20Concepts%20of%20Database%20Management.pdf/access): especially slides 4-13, 17-18, 21
 
 ----
-Last modified: Thu Feb 10 03:26:23 UTC 2022 by jmac.
+Last modified: Sat Feb 12 23:38:57 UTC 2022 by jmac.
