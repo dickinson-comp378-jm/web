@@ -7,6 +7,11 @@ activity to learn about creating and altering database tables within
 phpMyAdmin:
 * [table-creation-lab.docx](class07/table-creation-lab.docx)
 
+If you don't have access to XAMPP, a great way to practice with
+phpMyAdmin is to use the online demo server at
+[phpmyadmin.net](https://demo.phpmyadmin.net/master-config/). Note
+that this is a public server so your work can be viewed, altered, or
+deleted by others.
 
 ## Class 6
 
@@ -125,4 +130,4 @@ SQL topics: select, from, distinct, as, where, and, between, in, like, is null. 
 * [chapter 1 textbook slides](https://www.pdbmbook.com/vault/Chapter%20Fundamental%20Concepts%20of%20Database%20Management.pdf/access): especially slides 4-13, 17-18, 21
 
 ----
-Last modified: Sat Feb 12 23:38:57 UTC 2022 by jmac.
+Last modified: Mon Feb 14 18:13:47 UTC 2022 by jmac.
