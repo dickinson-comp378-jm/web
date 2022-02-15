@@ -9,3 +9,7 @@
   please see the [Northwind
   acknowledgement](northwind-acknowledgement.md) for more
   details
+* [CarlisleMenuItems.sql](CarlisleMenuItems.sql) - Simple demonstration with Carlisle restaurant information
+* [CarlisleMenuItemB.sql](CarlisleMenuItemsB.sql) - same as
+  `CarlisleMenuItems.sql`, but with an extra restaurant that has no
+  dishes listed.

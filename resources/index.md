@@ -1,5 +1,14 @@
 # Detailed schedule
 
+## Class 8
+
+Main topic for today: database joins
+* Whiteboard notes: [08-joins-whiteboard.svg](class08/08-joins-whiteboard.svg)
+* Example databases: 
+  - [CarlisleMenuItems.sql](../sql/CarlisleMenuItems.sql)
+  - [CarlisleMenuItemB.sql](../sql/CarlisleMenuItemsB.sql)
+
+
 ## Class 7
 
 Most of this class will be devoted to an ungraded but required lab
@@ -130,4 +139,4 @@ SQL topics: select, from, distinct, as, where, and, between, in, like, is null. 
 * [chapter 1 textbook slides](https://www.pdbmbook.com/vault/Chapter%20Fundamental%20Concepts%20of%20Database%20Management.pdf/access): especially slides 4-13, 17-18, 21
 
 ----
-Last modified: Mon Feb 14 18:13:47 UTC 2022 by jmac.
+Last modified: Tue Feb 15 20:38:56 UTC 2022 by jmac.
