@@ -1,5 +1,23 @@
 # Detailed schedule
 
+## Class 9
+
+Main topic for today: SQL statements `exists`, `union`, `intersect`, `except`, `insert into`, `delete from`, `update`, `alter table`
+
+Notes: 
+1. `intersect` and `except` are not available in MySQL. You should be
+   aware of these but we will not use them.
+1. `insert`, `delete`, and `update` are good examples of
+   transactions. By default, in MySQL, any single statement will be
+   treated as a transaction.
+
+The class will consist of some demos of the above SQL statements
+followed by free lab time for working on homework assignments and
+asking questions.
+
+
+
+
 ## Class 8
 
 Main topic for today: database joins
@@ -139,4 +157,4 @@ SQL topics: select, from, distinct, as, where, and, between, in, like, is null. 
 * [chapter 1 textbook slides](https://www.pdbmbook.com/vault/Chapter%20Fundamental%20Concepts%20of%20Database%20Management.pdf/access): especially slides 4-13, 17-18, 21
 
 ----
-Last modified: Tue Feb 15 20:38:56 UTC 2022 by jmac.
+Last modified: Mon Feb 21 01:30:06 UTC 2022 by jmac.
