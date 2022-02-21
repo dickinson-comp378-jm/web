@@ -6,7 +6,7 @@
 * [Textbook website](https://www.pdbmbook.com/), including the [online
   playground](https://www.pdbmbook.com/playground)
 * [Homework assignments](hw)
-* [Exams](exams.md)  <!-- &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 12/6/2021</font> -->
+* [Exams](exams.md)  &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 2/20/2022</font>
 * [Quantitative Reasoning (QR) Associate](qra.md)
 * [Instructor's office hours](https://users.dickinson.edu/~jmac/office-hours.html)
 * [Moodle site](https://lms.dickinson.edu/course/view.php?id=46929) for assignment solutions and exams
@@ -23,4 +23,4 @@
 * [Acknowledgment](acknowledgment.md)
 
 ----
-Last modified: Tue Feb 15 20:42:55 UTC 2022 by jmac.
+Last modified: Mon Feb 21 01:21:12 UTC 2022 by jmac.
