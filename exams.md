@@ -35,6 +35,8 @@ penalized by 5% per hour.
 
 The exam can be downloaded from Moodle via a link that will become active five minutes before the start of the exam.
 
+The lab requires use of the [Southwind](sql/southwind.sql) database.
+
 The instructor will be available to answer questions about the exam in
 person, in the regular classroom, for the first 75 minutes of the
 exam. This is the only time in which you can be sure of receiving a
@@ -50,4 +52,4 @@ rapid response to any question about the exam.
 <!--   is 24 hours later: 10:30 AM on Friday, November 12. -->
 
 ----
-Last modified: Mon Feb 21 01:20:46 UTC 2022 by jmac.
+Last modified: Thu Feb 24 15:06:21 UTC 2022 by jmac.

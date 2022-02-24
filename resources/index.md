@@ -6,6 +6,8 @@ Main topics for today: defining indexes and views.
 
 Most of the class session will be devoted to a lab on these topics: [views-and-indexes-lab.docx](class10/views-and-indexes-lab.docx)
 
+The lab requires use of the [Southwind](../sql/southwind.sql) database.
+
 ## Class 9
 
 Main topic for today: SQL statements `exists`, `union`, `intersect`, `except`, `insert into`, `delete from`, `update`, `alter table`
@@ -167,4 +169,4 @@ SQL topics: select, from, distinct, as, where, and, between, in, like, is null. 
 * [chapter 1 textbook slides](https://www.pdbmbook.com/vault/Chapter%20Fundamental%20Concepts%20of%20Database%20Management.pdf/access): especially slides 4-13, 17-18, 21
 
 ----
-Last modified: Thu Feb 24 04:04:10 UTC 2022 by jmac.
+Last modified: Thu Feb 24 15:02:33 UTC 2022 by jmac.
