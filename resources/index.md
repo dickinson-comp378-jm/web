@@ -16,6 +16,10 @@ Notes:
 1. `insert`, `delete`, and `update` are good examples of
    transactions. By default, in MySQL, any single statement will be
    treated as a transaction.
+1. This is a good time to start using the Format button in
+   phpMyAdmin. It will make your SQL much easier to read.
+1. It's also a good time to start commenting your SQL code. Lines
+   beginning with two dashes (`--`) are treated as comments.
 
 The class will consist of some demos of the above SQL statements
 followed by free lab time for working on homework assignments and
@@ -163,4 +167,4 @@ SQL topics: select, from, distinct, as, where, and, between, in, like, is null. 
 * [chapter 1 textbook slides](https://www.pdbmbook.com/vault/Chapter%20Fundamental%20Concepts%20of%20Database%20Management.pdf/access): especially slides 4-13, 17-18, 21
 
 ----
-Last modified: Thu Feb 24 04:02:02 UTC 2022 by jmac.
+Last modified: Thu Feb 24 04:04:10 UTC 2022 by jmac.
