@@ -1,5 +1,11 @@
 # Detailed schedule
 
+## Class 10
+
+Main topics for today: defining indexes and views.
+
+Most of the class session will be devoted to a lab on these topics: [views-and-indexes-lab.docx](class10/views-and-indexes-lab.docx)
+
 ## Class 9
 
 Main topic for today: SQL statements `exists`, `union`, `intersect`, `except`, `insert into`, `delete from`, `update`, `alter table`
@@ -157,4 +163,4 @@ SQL topics: select, from, distinct, as, where, and, between, in, like, is null. 
 * [chapter 1 textbook slides](https://www.pdbmbook.com/vault/Chapter%20Fundamental%20Concepts%20of%20Database%20Management.pdf/access): especially slides 4-13, 17-18, 21
 
 ----
-Last modified: Mon Feb 21 01:30:06 UTC 2022 by jmac.
+Last modified: Thu Feb 24 04:02:02 UTC 2022 by jmac.
