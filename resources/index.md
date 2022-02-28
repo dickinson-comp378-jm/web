@@ -1,5 +1,9 @@
 # Detailed schedule
 
+## Class 11
+
+Exam review notes: [exam-review.pptx](class11/exam-review.pptx)
+
 ## Class 10
 
 Main topics for today: defining indexes and views.
@@ -169,4 +173,4 @@ SQL topics: select, from, distinct, as, where, and, between, in, like, is null. 
 * [chapter 1 textbook slides](https://www.pdbmbook.com/vault/Chapter%20Fundamental%20Concepts%20of%20Database%20Management.pdf/access): especially slides 4-13, 17-18, 21
 
 ----
-Last modified: Thu Feb 24 15:02:33 UTC 2022 by jmac.
+Last modified: Mon Feb 28 19:48:30 UTC 2022 by jmac.
