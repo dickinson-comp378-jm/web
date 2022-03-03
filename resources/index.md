@@ -1,5 +1,10 @@
 # Detailed schedule
 
+## Class 12
+
+The take-home exam begins at the start of class today. Please contact
+the instructor via email or Teams with any questions.
+
 ## Class 11
 
 Exam review notes: [exam-review.pptx](class11/exam-review.pptx)
@@ -173,4 +178,4 @@ SQL topics: select, from, distinct, as, where, and, between, in, like, is null. 
 * [chapter 1 textbook slides](https://www.pdbmbook.com/vault/Chapter%20Fundamental%20Concepts%20of%20Database%20Management.pdf/access): especially slides 4-13, 17-18, 21
 
 ----
-Last modified: Mon Feb 28 19:48:30 UTC 2022 by jmac.
+Last modified: Thu Mar 03 14:54:12 UTC 2022 by jmac.
