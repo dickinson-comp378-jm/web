@@ -4,10 +4,10 @@
   textbook
 * [harvestfieldplant.sql](harvestfieldplant.sql) - a small
   subset of the database used by the Dickinson College farm
-* [northwind.sql](northwind.sql) - a database originally
+* [southwind.sql](southwind.sql) - a database originally
   provided by Microsoft as a Microsoft Access 2010 sample database;
-  please see the [Northwind
-  acknowledgement](northwind-acknowledgement.md) for more
+  please see the [Southwind
+  acknowledgement](southwind-acknowledgement.md) for more
   details
 * [CarlisleMenuItems.sql](CarlisleMenuItems.sql) - Simple demonstration with Carlisle restaurant information
 * [CarlisleMenuItemB.sql](CarlisleMenuItemsB.sql) - same as
