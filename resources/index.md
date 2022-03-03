@@ -1,9 +1,25 @@
 # Detailed schedule
 
+## Class 13
+
+Main topic for today: JDBC. See the [Using JDBC](../jdbc.md) web page (also available from a direct link on the main course webpage).
+
+In-class activities:
+  1. Quick overview of relevant slides from textbook materials: slides
+     30-40 from [Chapter 15 Database
+     APIs.ppt](https://www.pdbmbook.com/vault/Chapter%20Database%20APIs.pdf/access)
+  2. Interactive minilab: implement a Java program that can access the
+     `wine` database. Follow the instructions on the [Using
+     JDBC](../jdbc.md) web page.
+  3. Remainder of time is available to work on assignments RP1 and/or CC4.
+
+
 ## Class 12
 
 The take-home exam begins at the start of class today. Please contact
 the instructor via email or Teams with any questions.
+
+
 
 ## Class 11
 
@@ -11,7 +27,7 @@ Exam review notes: [exam-review.pptx](class11/exam-review.pptx)
 
 ## Class 10
 
-Main topics for today: defining indexes and views.
+Main topic for today: defining indexes and views.
 
 Most of the class session will be devoted to a lab on these topics: [views-and-indexes-lab.docx](class10/views-and-indexes-lab.docx)
 
@@ -178,4 +194,4 @@ SQL topics: select, from, distinct, as, where, and, between, in, like, is null. 
 * [chapter 1 textbook slides](https://www.pdbmbook.com/vault/Chapter%20Fundamental%20Concepts%20of%20Database%20Management.pdf/access): especially slides 4-13, 17-18, 21
 
 ----
-Last modified: Thu Mar 03 14:54:12 UTC 2022 by jmac.
+Last modified: Thu Mar 03 16:23:48 UTC 2022 by jmac.
