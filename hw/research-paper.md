@@ -67,7 +67,7 @@ You can make your selection at the following link:
 Here is a list of papers already chosen (which may be out of date but
 the instructor will try to add information whenever possible):
 
-
+|   |   |
 |--------|--------------------------|
 | Alyssa | DatAgent: The Imminent Age of Intelligent Data Assistants. Mandamadiotis et al., VLDB21 |
 | Leah + Katie | Are We Ready For Learned Cardinality Estimation? Wang et al., VLDB21   |
@@ -76,7 +76,7 @@ the instructor will try to add information whenever possible):
 | Khanh | RAMP-TAO: Layering Atomic Transactions on Facebook's Online TAO Data Store. Cheng et al., VLDB21  |
 | Han | Davos: A System for Interactive Data-Driven Decision Making. Shang et al., VLDB21  |
 | Sophia | Auctus: A Dataset Search Engine for Data Discovery and Augmentation. Castelo et al., VLDB21  |
-|--------|--------------------------|
+
 
 
 ### Step 2 of RP1: submit paper description
