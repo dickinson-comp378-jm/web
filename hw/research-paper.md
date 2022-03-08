@@ -73,9 +73,9 @@ the instructor will try to add information whenever possible):
 | Leah + Katie | Are We Ready For Learned Cardinality Estimation? Wang et al., VLDB21   |
 | Leo | MyRocks: LSM-Tree Database Storage Engine Serving Facebook's Social Graph. Matsunobu et al., VLDB20  |
 | John and Amir | Optimizing Fitness-For-Use of Differentially Private Linear Queries. Xiao et al., VLDB21  |
-| Khanh | RAMP-TAO: Layering Atomic Transactions on Facebook's Online TAO Data Store. Cheng et al.  |
+| Khanh | RAMP-TAO: Layering Atomic Transactions on Facebook's Online TAO Data Store. Cheng et al., VLDB21  |
 | Han | Davos: A System for Interactive Data-Driven Decision Making. Shang et al., VLDB21  |
-| Sophia | Auctus: A Dataset Search Engine for Data Discovery and Augmentation. Castelo et al.  |
+| Sophia | Auctus: A Dataset Search Engine for Data Discovery and Augmentation. Castelo et al., VLDB21  |
 |--------|--------------------------|
 
 
