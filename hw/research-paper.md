@@ -60,11 +60,24 @@ Each individual and/or team must choose a different paper. Papers will
 be assigned on a first-come first-served basis. You can see a list of
 papers that have already been chosen at the following link:
 
-* [list of papers already chosen](https://forms.office.com/Pages/AnalysisPage.aspx?id=VbAyYrl2E0ybiLVirn22-2zFL4dI9oNMmoALudp-AK9UMVc3S1JQSlJIRU01RU5TRFdHOVlJQlJVVS4u&AnalyzerToken=BZ32DTOrWORKXAyvTs1ysUtoToazQhhb)
-
 You can make your selection at the following link:
 
 * [form for submitting choice of paper](https://forms.office.com/Pages/ResponsePage.aspx?id=VbAyYrl2E0ybiLVirn22-2zFL4dI9oNMmoALudp-AK9UMVc3S1JQSlJIRU01RU5TRFdHOVlJQlJVVS4u)
+
+Here is a list of papers already chosen (which may be out of date but
+the instructor will try to add information whenever possible):
+
+
+|--------|--------------------------|
+| Alyssa | DatAgent: The Imminent Age of Intelligent Data Assistants. Mandamadiotis et al., VLDB21 |
+| Leah + Katie | Are We Ready For Learned Cardinality Estimation? Wang et al., VLDB21   |
+| Leo | MyRocks: LSM-Tree Database Storage Engine Serving Facebook's Social Graph. Matsunobu et al., VLDB20  |
+| John and Amir | Optimizing Fitness-For-Use of Differentially Private Linear Queries. Xiao et al., VLDB21  |
+| Khanh | RAMP-TAO: Layering Atomic Transactions on Facebook's Online TAO Data Store. Cheng et al.  |
+| Han | Davos: A System for Interactive Data-Driven Decision Making. Shang et al., VLDB21  |
+| Sophia | Auctus: A Dataset Search Engine for Data Discovery and Augmentation. Castelo et al.  |
+|--------|--------------------------|
+
 
 ### Step 2 of RP1: submit paper description
 
