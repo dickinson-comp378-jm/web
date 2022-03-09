@@ -76,6 +76,8 @@ the instructor will try to add information whenever possible):
 | Khanh | RAMP-TAO: Layering Atomic Transactions on Facebook's Online TAO Data Store. Cheng et al., VLDB21  |
 | Han | Davos: A System for Interactive Data-Driven Decision Making. Shang et al., VLDB21  |
 | Sophia | Auctus: A Dataset Search Engine for Data Discovery and Augmentation. Castelo et al., VLDB21  |
+| Son | DIAMetrics: Benchmarking Query Engines at Scale. Gruenheid et al., VLDB21. |
+| Billy | Optimizing Bipartite Matching in Real-World Applications by Incremental Cost Computation. Abeywickrama et al., VLDB21 |
 
 
 
