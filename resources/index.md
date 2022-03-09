@@ -1,5 +1,12 @@
 # Detailed schedule
 
+## Class 14
+
+1. Please take the [midsemester survey](https://forms.office.com/Pages/ResponsePage.aspx?id=VbAyYrl2E0ybiLVirn22-2zFL4dI9oNMmoALudp-AK9URUZXN0tHWjhLNjFLTldHM0Q0WDVCRk8xTS4u).
+1. Overview of how to read a research paper
+1. Meetings with student teams as needed
+
+
 ## Class 13
 
 Main topic for today: JDBC. See the [Using JDBC](../jdbc.md) web page (also available from a direct link on the main course webpage).
@@ -194,4 +201,4 @@ SQL topics: select, from, distinct, as, where, and, between, in, like, is null. 
 * [chapter 1 textbook slides](https://www.pdbmbook.com/vault/Chapter%20Fundamental%20Concepts%20of%20Database%20Management.pdf/access): especially slides 4-13, 17-18, 21
 
 ----
-Last modified: Thu Mar 03 16:23:48 UTC 2022 by jmac.
+Last modified: Wed Mar 09 18:04:29 UTC 2022 by jmac.
