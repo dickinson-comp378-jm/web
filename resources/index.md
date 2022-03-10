@@ -3,8 +3,9 @@
 ## Class 14
 
 1. Please take the [midsemester survey](https://forms.office.com/Pages/ResponsePage.aspx?id=VbAyYrl2E0ybiLVirn22-2zFL4dI9oNMmoALudp-AK9URUZXN0tHWjhLNjFLTldHM0Q0WDVCRk8xTS4u).
+1. Exam discussion
 1. Overview of how to read a research paper
-1. Meetings with student teams as needed
+1. Meetings with student teams for RP assignents as needed
 
 
 ## Class 13
@@ -201,4 +202,4 @@ SQL topics: select, from, distinct, as, where, and, between, in, like, is null. 
 * [chapter 1 textbook slides](https://www.pdbmbook.com/vault/Chapter%20Fundamental%20Concepts%20of%20Database%20Management.pdf/access): especially slides 4-13, 17-18, 21
 
 ----
-Last modified: Wed Mar 09 18:04:29 UTC 2022 by jmac.
+Last modified: Thu Mar 10 14:44:00 UTC 2022 by jmac.
