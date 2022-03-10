@@ -78,7 +78,9 @@ the instructor will try to add information whenever possible):
 | Sophia | Auctus: A Dataset Search Engine for Data Discovery and Augmentation. Castelo et al., VLDB21  |
 | Son | DIAMetrics: Benchmarking Query Engines at Scale. Gruenheid et al., VLDB21. |
 | Billy | Optimizing Bipartite Matching in Real-World Applications by Incremental Cost Computation. Abeywickrama et al., VLDB21 |
-
+| Evan | SaS: SSD as SQL Database System. Parl et al., VLDB21 |
+| William | Opportunities for Optimism in Contended Main-Memory Multicore Transactions. Huang et al., VLDB20 |
+| Pamela | Inspector Gadget: A Data Programming-based Labeling System for Industrial Images. Heo et al., VLDB20 |
 
 
 ### Step 2 of RP1: submit paper description
