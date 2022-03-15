@@ -1,5 +1,15 @@
 # Detailed schedule
 
+## Class 15
+
+Main topic for today: B-trees.
+* [Visualization](https://www.cs.usfca.edu/~galles/visualization/BTree.html) by David Galles at UCSF. Set maximum degree to 5. This corresponds to what we call an order 2/4 tree. 
+* Handout: [btree-handout.docx](class15/btree-handout.docx)
+  - handout solution: [btree-handout-solution.pptx](class15/btree-handout-solution.pptx)
+* Whiteboard notes:
+  - [Part 1](class15/btrees-whiteboard-part1.svg)
+  - [Part 2](class15/btrees-whiteboard-part2.svg)
+
 ## Class 14
 
 1. Please take the [midsemester survey](https://forms.office.com/Pages/ResponsePage.aspx?id=VbAyYrl2E0ybiLVirn22-2zFL4dI9oNMmoALudp-AK9URUZXN0tHWjhLNjFLTldHM0Q0WDVCRk8xTS4u).
@@ -207,4 +217,4 @@ SQL topics: select, from, distinct, as, where, and, between, in, like, is null. 
 * [chapter 1 textbook slides](https://www.pdbmbook.com/vault/Chapter%20Fundamental%20Concepts%20of%20Database%20Management.pdf/access): especially slides 4-13, 17-18, 21
 
 ----
-Last modified: Thu Mar 10 16:09:42 UTC 2022 by jmac.
+Last modified: Tue Mar 15 20:51:27 UTC 2022 by jmac.
