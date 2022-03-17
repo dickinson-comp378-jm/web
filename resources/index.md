@@ -12,6 +12,8 @@ Main topic for today: query optimization and join algorithms
 
 ## Class 15
 
+[Results of the midsemester feedback](class15/comp378-midsem-sp2022.pptx) are available.
+
 Main topic for today: B-trees.
 * [Visualization](https://www.cs.usfca.edu/~galles/visualization/BTree.html) by David Galles at UCSF. Set maximum degree to 5. This corresponds to what we call an order 2/4 tree. 
 * Handout: [btree-handout.docx](class15/btree-handout.docx)
@@ -227,4 +229,4 @@ SQL topics: select, from, distinct, as, where, and, between, in, like, is null. 
 * [chapter 1 textbook slides](https://www.pdbmbook.com/vault/Chapter%20Fundamental%20Concepts%20of%20Database%20Management.pdf/access): especially slides 4-13, 17-18, 21
 
 ----
-Last modified: Thu Mar 17 18:55:07 UTC 2022 by jmac.
+Last modified: Thu Mar 17 19:09:50 UTC 2022 by jmac.
