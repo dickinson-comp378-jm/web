@@ -1,5 +1,13 @@
 # Detailed schedule
 
+## Class 16
+
+Main topic for today: query optimization and join algorithms
+* whiteboard notes: [join-algs-whiteboard.svg](class16/join-algs-whiteboard.svg)
+* handout on join algorithms: 
+  - as [Excel workbook](class16/join-examples.xlsx) (solutions are on the second sheet of this workbook)
+  - as [PDF](class16/join-examples.pdf)
+
 ## Class 15
 
 Main topic for today: B-trees.
@@ -217,4 +225,4 @@ SQL topics: select, from, distinct, as, where, and, between, in, like, is null. 
 * [chapter 1 textbook slides](https://www.pdbmbook.com/vault/Chapter%20Fundamental%20Concepts%20of%20Database%20Management.pdf/access): especially slides 4-13, 17-18, 21
 
 ----
-Last modified: Tue Mar 15 20:51:27 UTC 2022 by jmac.
+Last modified: Thu Mar 17 18:51:47 UTC 2022 by jmac.
