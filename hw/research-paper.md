@@ -183,3 +183,28 @@ Note that it will not be possible to explain everything about the
 paper within the 10-minute time limit. Part of the challenge of this
 assignment is to judiciously choose which material to explain and
 which to leave out.
+
+
+### Schedule of presentations (assigned randomly)
+
+In class on Thursday 3/31:
+1. Pamela
+1. Han
+1. William
+1. Son
+1. Evan
+
+In class on Monday 4/4:
+1. Leah and Katie
+1. Leo
+1. Billy
+1. Khanh
+1. Alyssa
+
+In class on Thursday 4/7:
+1. Sophia
+1. John and Amir
+
+
+
+
