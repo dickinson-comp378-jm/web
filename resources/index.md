@@ -1,6 +1,5 @@
 # Detailed schedule
 
-<!--
 ## Class 16
 
 Main topic for today: query optimization and join algorithms
@@ -8,7 +7,6 @@ Main topic for today: query optimization and join algorithms
 * handout on join algorithms: 
   - as [Excel workbook](class16/join-examples.xlsx) (solutions are on the second sheet of this workbook)
   - as [PDF](class16/join-examples.pdf)
--->
 
 ## Class 15
 
@@ -229,4 +227,4 @@ SQL topics: select, from, distinct, as, where, and, between, in, like, is null. 
 * [chapter 1 textbook slides](https://www.pdbmbook.com/vault/Chapter%20Fundamental%20Concepts%20of%20Database%20Management.pdf/access): especially slides 4-13, 17-18, 21
 
 ----
-Last modified: Thu Mar 17 19:09:50 UTC 2022 by jmac.
+Last modified: Thu Mar 24 14:32:05 UTC 2022 by jmac.
