@@ -3,7 +3,7 @@
 ## Class 20
 
 Main topic for today: database concurrency and locking
-* whiteboard notes: [concurrency-whiteboard.png](class20/concurrency-whiteboard.png)
+* whiteboard notes: [concurrency-whiteboard.png](class20/concurrency-whiteboard.png), [concurrency-whiteboard.pptx](class20/concurrency-whiteboard.pptx)
 * Java files:
   - [QueryExecutor.java](../java/QueryExecutor.java)
   - [SlowTransfer.java](../java/SlowTransfer.java)
@@ -247,4 +247,4 @@ SQL topics: select, from, distinct, as, where, and, between, in, like, is null. 
 * [chapter 1 textbook slides](https://www.pdbmbook.com/vault/Chapter%20Fundamental%20Concepts%20of%20Database%20Management.pdf/access): especially slides 4-13, 17-18, 21
 
 ----
-Last modified: Thu Apr 07 04:39:28 UTC 2022 by jmac.
+Last modified: Thu Apr 07 12:51:20 UTC 2022 by jmac.
