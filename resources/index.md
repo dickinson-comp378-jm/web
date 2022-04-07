@@ -1,5 +1,26 @@
 # Detailed schedule
 
+## Class 20
+
+Main topic for today: database concurrency and locking
+* whiteboard notes: [concurrency-whiteboard.png](class20/concurrency-whiteboard.png)
+* Java files:
+  - [QueryExecutor.java](../java/QueryExecutor.java)
+  - [SlowTransfer.java](../java/SlowTransfer.java)
+  - [TransactionDemo.java](../java/TransactionDemo.java)
+  - [WithdrawMoney.java](../java/WithdrawMoney.java)
+  - [WithdrawMoney.java](../java/WithdrawMoney.java)
+* Bank database: [bank.sql](../bank.sql)
+
+
+## Classes 18 and 19
+
+Research paper presentations
+
+## Class 17
+
+Classic paper discussion of Brin \& Page (1998)
+
 ## Class 16
 
 Main topic for today: query optimization and join algorithms
@@ -227,4 +248,4 @@ SQL topics: select, from, distinct, as, where, and, between, in, like, is null. 
 * [chapter 1 textbook slides](https://www.pdbmbook.com/vault/Chapter%20Fundamental%20Concepts%20of%20Database%20Management.pdf/access): especially slides 4-13, 17-18, 21
 
 ----
-Last modified: Thu Mar 24 14:32:05 UTC 2022 by jmac.
+Last modified: Thu Apr 07 04:34:56 UTC 2022 by jmac.
