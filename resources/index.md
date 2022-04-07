@@ -11,6 +11,11 @@ Main topic for today: database concurrency and locking
   - [WithdrawMoney.java](../java/WithdrawMoney.java)
 * Bank database: [bank.sql](../sql/bank.sql)
 
+There is a fun minilab that goes with this topic, but we do not have time to work on it in class. The instructor will demonstrate most of the programs, but you are encouraged to try them on your own also. Try the version that does not have accompanying explanations first, then look at the version that includes explanations:
+* Transaction and locking minilab:
+  - [without explanations](class20/demos-without-explanations.md)
+  - [with explanations](class20/demos-with-explanations.md)
+
 
 ## Classes 18 and 19
 
@@ -247,4 +252,4 @@ SQL topics: select, from, distinct, as, where, and, between, in, like, is null. 
 * [chapter 1 textbook slides](https://www.pdbmbook.com/vault/Chapter%20Fundamental%20Concepts%20of%20Database%20Management.pdf/access): especially slides 4-13, 17-18, 21
 
 ----
-Last modified: Thu Apr 07 12:51:20 UTC 2022 by jmac.
+Last modified: Thu Apr 07 13:44:41 UTC 2022 by jmac.
