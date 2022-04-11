@@ -7,7 +7,7 @@ Topics for today:
    * see [recovery-example.docx](class21/recovery-example.docx) and [2-phase-locking.pdf](class21/2-phase-locking.pdf)
 1. Finish understanding concurrency problems, continuing from the previous class meeting
    * see whiteboard notes from last time: [concurrency-whiteboard.png](class20/concurrency-whiteboard.png), [concurrency-whiteboard.pptx](class20/concurrency-whiteboard.pptx)
-   * see [concurrency-examples.pdf](class21/concurrency-examples.pdf)
+   * see [concurrency-examples.pdf](class21/concurrency-examples.pdf) - we did not have time to go over this in class, but these examples are similar to the homework questions and exam questions, so I do recommend studying them.
    
 Notes are now also available from the online [COMP378 OneNote notebook](https://dickinson0-my.sharepoint.com/:o:/g/personal/jmac_dickinson_edu/Etm6Aj0x2xlOjhUCdJi3QVABCpJ5UnV9aBtGdPfXk4pXtg).
 
@@ -267,4 +267,4 @@ SQL topics: select, from, distinct, as, where, and, between, in, like, is null. 
 * [chapter 1 textbook slides](https://www.pdbmbook.com/vault/Chapter%20Fundamental%20Concepts%20of%20Database%20Management.pdf/access): especially slides 4-13, 17-18, 21
 
 ----
-Last modified: Mon Apr 11 23:41:41 UTC 2022 by jmac.
+Last modified: Mon Apr 11 23:45:04 UTC 2022 by jmac.
