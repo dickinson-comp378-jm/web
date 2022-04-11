@@ -22,5 +22,5 @@ Demo 4 (uses read locks and transactions, so a deadlock occurs when the two tran
 
 Demo 5 (simpler demonstration of deadlock using only writes -- transfer from one bank account to another): simultaneously run
 * `java -cp ".;mysql-connector-java-8.0.26.jar" SlowTransfer 111 222 1 5`
-* `java -cp ".;mysql-connector-java-8.0.26.jar" SlowTransfer 111 222 50 0`
+* `java -cp ".;mysql-connector-java-8.0.26.jar" SlowTransfer 222 111 50 0`
 

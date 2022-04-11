@@ -22,5 +22,5 @@ Demo 4: simultaneously run
 
 Demo 5: simultaneously run
 * `java -cp ".;mysql-connector-java-8.0.26.jar" SlowTransfer 111 222 1 5`
-* `java -cp ".;mysql-connector-java-8.0.26.jar" SlowTransfer 111 222 50 0`
+* `java -cp ".;mysql-connector-java-8.0.26.jar" SlowTransfer 222 111 50 0`
 
