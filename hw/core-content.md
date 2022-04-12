@@ -17,6 +17,10 @@ Each core content assignment is available as a Word document from the links belo
     may be useful as an even simpler example.
 * [CC5.docx](CC5.docx) 
 * [CC6.docx](CC6.docx) 
+  - Use the following Java files as a starting point:
+    [QueryExecutor.java](../java/QueryExecutor.java),
+    [CC6skeleton.java](../java/CC6skeleton.java). 
+  - The Java program [TransactionDemo.java](../java/TransactionDemo.java), which we discussed in class, may be useful as an example.
 
 
 <!-- * CC3a  -->
