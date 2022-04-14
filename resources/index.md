@@ -1,5 +1,12 @@
 # Detailed schedule
 
+## Class 22
+
+Discussion of Sweeney (1997). Possible relevant link:
+* [Netflix Cancels Contest After Concerns Are Raised About Privacy](https://www.nytimes.com/2010/03/13/technology/13netflix.html) (NYtimes, March 2010)
+* [Differential privacy](https://en.wikipedia.org/wiki/Differential_privacy) on Wikipedia
+
+
 ## Class 21
 
 Topics for today:
@@ -267,4 +274,4 @@ SQL topics: select, from, distinct, as, where, and, between, in, like, is null. 
 * [chapter 1 textbook slides](https://www.pdbmbook.com/vault/Chapter%20Fundamental%20Concepts%20of%20Database%20Management.pdf/access): especially slides 4-13, 17-18, 21
 
 ----
-Last modified: Mon Apr 11 23:45:04 UTC 2022 by jmac.
+Last modified: Thu Apr 14 16:19:05 UTC 2022 by jmac.
