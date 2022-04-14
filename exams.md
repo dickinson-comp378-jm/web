@@ -43,13 +43,13 @@ exam. This is the only time in which you can be sure of receiving a
 rapid response to any question about the exam.
 
 
-<!-- ## Midterm Exam 2 -->
+## Midterm Exam 2
 
-<!-- The instructions for midterm exam 2 are the same as for midterm exam -->
-<!-- 1, except that: -->
-<!-- * The exam covers material from Topics 5-7 -->
-<!-- * The exam begins at 10:30 AM on Thursday, November 11. The deadline -->
-<!--   is 24 hours later: 10:30 AM on Friday, November 12. -->
+The instructions for midterm exam 2 are the same as for midterm exam
+1, except that:
+* The exam covers material from Topics 4-6
+* The exam begins at 1:30 PM on Thursday, April 21. The deadline
+  is 24 hours later: 1:30 PM on Friday, April 22.
 
 ----
-Last modified: Thu Feb 24 15:54:43 UTC 2022 by jmac.
+Last modified: Thu Apr 14 16:38:58 UTC 2022 by jmac.
