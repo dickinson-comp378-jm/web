@@ -1,5 +1,45 @@
 # Detailed schedule
 
+## Class 21
+
+Topics for today:
+1. Quickly cover write ahead logging, two-phase commit, and two-phase locking
+   * see [recovery-example.docx](class21/recovery-example.docx) and [2-phase-locking.pdf](class21/2-phase-locking.pdf)
+1. Finish understanding concurrency problems, continuing from the previous class meeting
+   * see whiteboard notes from last time: [concurrency-whiteboard.png](class20/concurrency-whiteboard.png), [concurrency-whiteboard.pptx](class20/concurrency-whiteboard.pptx)
+   * see [concurrency-examples.pdf](class21/concurrency-examples.pdf) - we did not have time to go over this in class, but these examples are similar to the homework questions and exam questions, so I do recommend studying them.
+   
+Notes are now also available from the online [COMP378 OneNote notebook](https://dickinson0-my.sharepoint.com/:o:/g/personal/jmac_dickinson_edu/Etm6Aj0x2xlOjhUCdJi3QVABCpJ5UnV9aBtGdPfXk4pXtg).
+
+
+
+
+## Class 20
+
+Main topic for today: database concurrency and locking
+* whiteboard notes: [concurrency-whiteboard.png](class20/concurrency-whiteboard.png), [concurrency-whiteboard.pptx](class20/concurrency-whiteboard.pptx)
+* Java files:
+  - [QueryExecutor.java](../java/QueryExecutor.java)
+  - [SlowTransfer.java](../java/SlowTransfer.java)
+  - [TransactionDemo.java](../java/TransactionDemo.java)
+  - [WithdrawMoney.java](../java/WithdrawMoney.java)
+  - [Wait.java](../java/Wait.java)
+* Bank database: [bank.sql](../sql/bank.sql)
+
+There is a fun minilab that goes with this topic, but we do not have time to work on it in class. The instructor will demonstrate most of the programs, but you are encouraged to try them on your own also. Try the version that does not have accompanying explanations first, then look at the version that includes explanations:
+* Transaction and locking minilab:
+  - [without explanations](class20/demos-without-explanations.md)
+  - [with explanations](class20/demos-with-explanations.md)
+
+
+## Classes 18 and 19
+
+Research paper presentations
+
+## Class 17
+
+Classic paper discussion of Brin \& Page (1998)
+
 ## Class 16
 
 Main topic for today: query optimization and join algorithms
@@ -227,4 +267,4 @@ SQL topics: select, from, distinct, as, where, and, between, in, like, is null. 
 * [chapter 1 textbook slides](https://www.pdbmbook.com/vault/Chapter%20Fundamental%20Concepts%20of%20Database%20Management.pdf/access): especially slides 4-13, 17-18, 21
 
 ----
-Last modified: Thu Mar 24 14:32:05 UTC 2022 by jmac.
+Last modified: Mon Apr 11 23:45:04 UTC 2022 by jmac.

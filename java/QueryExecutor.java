@@ -197,7 +197,7 @@ public class QueryExecutor {
 	}
 
 	public static void main(String[] args) {
-		QueryExecutor qe = new QueryExecutor();
+		QueryExecutor qe = new QueryExecutor("wine");
 
 		// This is an example of how to execute a query.
 		qe.executeQuery("SELECT * FROM `supplier`");
