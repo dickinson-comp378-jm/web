@@ -12,8 +12,11 @@ are as follows.
   as in section 6.1.5 of the textbook.
 * The database should be implemented in MySQL.
 * The computer program should demonstrate some interesting properties
-  or capabilities of the database. Most likely, it will be written in
-  Java and will employ JDBC.
+  or capabilities of the database. 
+  - Most likely, it will be written in Java and will employ JDBC.
+  - Alternatively, you can learn a little PHP and make some dynamic
+    webpages that interact with your database. For some instructions
+    and a demo, please go to the [PHP demo page](../php/index.md).
 * The final project can be completed individually or in teams of
   two. However, if you worked with a partner for the RP1 and RP2
   assignments, you may not work with the same partner again. If you
