@@ -28,7 +28,11 @@ $sql = sprintf($sql, $amount, $account);
 
 try {
     mysqli_query($mysqli, $sql);
-    echo "<p>Deposit was completed successfully.";
+    if ($mysqli->affected_rows==1) {
+        echo "<p>Deposit was completed successfully.";
+    } else {
+        echo "<p>The deposit failed. Check that the account number is correct.";
+    }
 } catch (Exception $e) {
     echo "<p>Caught exception while executing the following SQL statement:<p>" . $sql ;
     echo "<p>The error message was:<p>",  $e->getMessage(), "\n";
