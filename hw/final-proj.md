@@ -3,7 +3,9 @@
 The goal of the final project is to design and implement a database
 and to implement a computer program that interacts with the
 database. You are free to choose the topic and content of the database
-and the functionality of the computer program. High-level requirements
+and the functionality of the computer program. The concept of computer
+program will be interpreted broadly and could include some dynamic
+webpages that interact with your database. High-level requirements
 are as follows.
 
 * The database should be designed using an EER model; it should
@@ -14,9 +16,9 @@ are as follows.
 * The computer program should demonstrate some interesting properties
   or capabilities of the database. 
   - Most likely, it will be written in Java and will employ JDBC.
-  - Alternatively, you can learn a little PHP and make some dynamic
+  - <font color="red">Alternatively, you can learn a little PHP and make some dynamic
     webpages that interact with your database. For some instructions
-    and a demo, please go to the [PHP demo page](../php/index.md).
+    and a demo, please go to the [PHP demo page](../php/index.md).</font> [Added 4/16/2022]
 * The final project can be completed individually or in teams of
   two. However, if you worked with a partner for the RP1 and RP2
   assignments, you may not work with the same partner again. If you
