@@ -1,5 +1,9 @@
 # Detailed schedule
 
+## Class 23
+
+[exam review whiteboard](class23/exam-review.png)
+
 ## Class 22
 
 Discussion of Sweeney (1997). Possible relevant link:
@@ -275,4 +279,4 @@ SQL topics: select, from, distinct, as, where, and, between, in, like, is null. 
 * [chapter 1 textbook slides](https://www.pdbmbook.com/vault/Chapter%20Fundamental%20Concepts%20of%20Database%20Management.pdf/access): especially slides 4-13, 17-18, 21
 
 ----
-Last modified: Thu Apr 14 16:30:59 UTC 2022 by jmac.
+Last modified: Mon Apr 18 18:55:32 UTC 2022 by jmac.
