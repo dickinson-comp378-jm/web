@@ -7,6 +7,13 @@ Meet at the HUB Social Hall for the Civic Engagement poster session,
 projects) until 2 PM, then return to Tome for regular class (database
 security demo).
 
+Database security demo (demonstrates a security flaw known as [SQL injection](https://en.wikipedia.org/wiki/SQL_injection)):
+* visit [http://localhost/bank.php](http://localhost/bank.php), put any amount into the 'Amount to deposit' box, and this exact string into the 'Account number' box: `111' or 'xyz'='xyz`
+  - what happened and why?
+* install the files [bank-insecure.php](../php/bank-insecure.php) and [depositMoney-insecure.php](../php/depositMoney-insecure.php) into `xampp/htdocs`
+* visit [http://localhost/bank-insecure.php](http://localhost/bank-insecure.php), put any amount into the 'Amount to deposit' box, and this exact string into the 'Account number' box: `111; drop table accounts;`
+  - what happened and why?
+
 
 ## Class 25
 
@@ -298,4 +305,4 @@ SQL topics: select, from, distinct, as, where, and, between, in, like, is null. 
 * [chapter 1 textbook slides](https://www.pdbmbook.com/vault/Chapter%20Fundamental%20Concepts%20of%20Database%20Management.pdf/access): especially slides 4-13, 17-18, 21
 
 ----
-Last modified: Wed Apr 27 15:30:50 UTC 2022 by jmac.
+Last modified: Wed Apr 27 20:36:54 UTC 2022 by jmac.

@@ -14,3 +14,7 @@ For more details, run through an online tutorial such as this [grocery
 store
 tutorial](https://www.geeksforgeeks.org/build-a-grocery-store-web-app-using-php-with-mysql/)
 at geeksforgeeks.org.
+
+Additional files that will be used to demonstrate a database security problem later in the semester:
+* [bank-insecure.php](bank-insecure.php)
+* [depositMoney-insecure.php](depositMoney-insecure.php)
