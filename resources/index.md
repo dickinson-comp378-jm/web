@@ -1,5 +1,13 @@
 # Detailed schedule
 
+## Class 26
+
+Meet at the HUB Social Hall for the Civic Engagement poster session,
+1:30pm. Browse posters (especially computer science senior seminar
+projects) until 2 PM, then return to Tome for regular class (database
+security demo).
+
+
 ## Class 25
 
 1. [Course evaluations](https://dickinson.campuslabs.com/eval-home/direct/9247753).
@@ -290,4 +298,4 @@ SQL topics: select, from, distinct, as, where, and, between, in, like, is null. 
 * [chapter 1 textbook slides](https://www.pdbmbook.com/vault/Chapter%20Fundamental%20Concepts%20of%20Database%20Management.pdf/access): especially slides 4-13, 17-18, 21
 
 ----
-Last modified: Mon Apr 25 17:28:41 UTC 2022 by jmac.
+Last modified: Wed Apr 27 15:30:50 UTC 2022 by jmac.
