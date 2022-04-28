@@ -28,7 +28,8 @@ Midterm exam 2.
 
 ## Class 23
 
-[exam review whiteboard](class23/exam-review.png)
+1. [PHP demo](../php) (optional info for final project)
+2. exam review: [exam review whiteboard](class23/exam-review.png)
 
 ## Class 22
 
@@ -305,4 +306,4 @@ SQL topics: select, from, distinct, as, where, and, between, in, like, is null. 
 * [chapter 1 textbook slides](https://www.pdbmbook.com/vault/Chapter%20Fundamental%20Concepts%20of%20Database%20Management.pdf/access): especially slides 4-13, 17-18, 21
 
 ----
-Last modified: Wed Apr 27 20:36:54 UTC 2022 by jmac.
+Last modified: Thu Apr 28 11:08:16 UTC 2022 by jmac.
