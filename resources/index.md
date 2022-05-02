@@ -1,5 +1,11 @@
 # Detailed schedule
 
+## Class 27
+
+* Informal discussion of NoSQL databases (Ch 11 of PDBM), based on
+  abbreviated version of the textbook authors's Chapter 11 slides: [pdbm-ch11-abbrev.pptx](class27/pdbm-ch11-abbrev.pptx)
+
+
 ## Class 26
 
 Meet at the HUB Social Hall for the Civic Engagement poster session,
@@ -306,4 +312,4 @@ SQL topics: select, from, distinct, as, where, and, between, in, like, is null. 
 * [chapter 1 textbook slides](https://www.pdbmbook.com/vault/Chapter%20Fundamental%20Concepts%20of%20Database%20Management.pdf/access): especially slides 4-13, 17-18, 21
 
 ----
-Last modified: Thu Apr 28 11:08:16 UTC 2022 by jmac.
+Last modified: Mon May 02 12:38:06 UTC 2022 by jmac.
