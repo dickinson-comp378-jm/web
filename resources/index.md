@@ -1,5 +1,31 @@
 # Detailed schedule
 
+## Final presentations
+
+Random order of final presentations:
+1. Son
+1. Alyssa
+1. Katie
+1. Evan
+1. William
+1. Billy+Leo
+1. Pamela
+1. Han
+1. Sophia
+1. Khanh
+1. John+Leah
+1. Amir
+
+
+## Class 28
+
+1. Review of course learning objectives
+1. Complete [course
+   evaluations](https://dickinson.campuslabs.com/eval-home/direct/9247753)
+   if you haven't already done so.
+1. free time to consult on final projects
+
+
 ## Class 27
 
 1. Informal discussion of NoSQL databases (Ch 11 of PDBM), based on
@@ -314,4 +340,4 @@ SQL topics: select, from, distinct, as, where, and, between, in, like, is null. 
 * [chapter 1 textbook slides](https://www.pdbmbook.com/vault/Chapter%20Fundamental%20Concepts%20of%20Database%20Management.pdf/access): especially slides 4-13, 17-18, 21
 
 ----
-Last modified: Mon May 02 14:22:11 UTC 2022 by jmac.
+Last modified: Tue May 10 02:06:28 UTC 2022 by jmac.
