@@ -15,6 +15,7 @@ Random order of final presentations:
 1. Khanh
 1. John+Leah
 1. Amir
+1. Zeki
 
 
 ## Class 28
@@ -340,4 +341,4 @@ SQL topics: select, from, distinct, as, where, and, between, in, like, is null. 
 * [chapter 1 textbook slides](https://www.pdbmbook.com/vault/Chapter%20Fundamental%20Concepts%20of%20Database%20Management.pdf/access): especially slides 4-13, 17-18, 21
 
 ----
-Last modified: Tue May 10 02:06:28 UTC 2022 by jmac.
+Last modified: Tue May 10 17:43:54 UTC 2022 by jmac.
