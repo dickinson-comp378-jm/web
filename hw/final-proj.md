@@ -160,7 +160,7 @@ three categories of roughly equal weight.
   between entities? Does the computer program do something
   interesting? Does the experience report note some interesting
   aspects of the project, such as surprising results, challenges
-  encountered, and social/legal/ethical issues? Does the project using
+  encountered, and social/legal/ethical issues? Does the project use
   any advanced techniques, such as transactions, prepared statements,
   stored procedures, or triggers?
 * Effort: Is the total amount of effort commensurate with two weeks of
